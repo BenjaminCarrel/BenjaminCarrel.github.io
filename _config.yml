@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Benjamin Carrel homepage"
+title                    : "Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Benjamin Carrel"
@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Benjamin Carrel"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researcher in Applied Mathematics"
-  location         : "Geneva"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "PhD student in Applied Mathematics"
+  location         : "Geneva, Switzerland"
   email            : benjamin.carrel@unige.ch
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:benjamin.carrel@unige.ch"
+      # url: "mailto:benjamin.carrel@unige.ch"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -284,7 +284,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
