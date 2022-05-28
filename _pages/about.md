@@ -5,27 +5,40 @@ permalink: /about/
 author_profile: true
 ---
 
-## Introduction
-
-PhD student at the University of Geneva since February 2021. \\
-My two supervisors are [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/) and [Prof. Martin J. Gander](https://www.unige.ch/~gander/).
-
+> The people who are crazy enough to think they can change the world are the ones who do. (Steve Jobs)
 
 ## Domain of interest
 
-My topics of interest include low-rank approximations, parallel-in-time computations, iterative methods, and numerical methods in general. Besides my main research, I'm also interested in neural networks and machine learning in general.
+Main topics:
+- Low-rank approximations
+- Parallel-in-time computations
+- Iterative methods
+- Numerical integration
+
+Auxiliary topics:
+- Statistics
+- Optimization
+- Machine learning
+- Neural networks
+
+Do not hesitate to get in touch with me. Just send an email!
 
 ## Education
 
-Highschool in France.
+- Started PhD, University of Geneva, from February 2021, with my supervisors [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/).
+- Master in Mathematics, University of Geneva, December 2020.
+- [Master of excellence fellowship](https://www.unige.ch/sciences/fr/enseignements/formations/masters/excellencemasterfellowships/winners2019/). 
+- Bachelor in Mathematics, University of Geneva, June 2019.
+- Bac S, mention Très Bien, Lycée Jean-Michel, June 2016.
 
-Bachelor and Master at UNIGE.
 
 ## Hobbies
 
-Scientific culture: machine learning, statistics, physics.
+My first passion is science. Since my young age the universe and its mysterious laws fascinate me. Over time, I've been seduced by the beauty of mathematics. Today, I like reading about every topic in science.
 
-High-tech: domotic, computers.
+As a hobby, I like playing with new technologies. Computers, electronic and domotic are my favorites toys.
 
-Sports: Bicycle, running, swimming.
+_"Un esprit sain dans un corps sain."_
+
+Sport is important to keep on track. My favorite sports are swimming, running and biking.
 
