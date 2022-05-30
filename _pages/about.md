@@ -10,12 +10,14 @@ author_profile: true
 ## Domain of interest
 
 Main topics:
+
 - Low-rank approximations
 - Parallel-in-time computations
 - Iterative methods
 - Numerical integration
 
 Auxiliary topics:
+
 - Statistics
 - Optimization
 - Machine learning
@@ -34,6 +36,9 @@ Do not hesitate to get in touch with me. Just send an email!
 
 ## Hobbies
 
+Coming soon.
+
+<!-- 
 My first passion is science. Since my young age the universe and its mysterious laws fascinate me. Over time, I've been seduced by the beauty of mathematics. Today, I like reading about every topic in science.
 
 As a hobby, I like playing with new technologies. Computers, electronic and domotic are my favorites toys.
@@ -41,4 +46,4 @@ As a hobby, I like playing with new technologies. Computers, electronic and domo
 _"Un esprit sain dans un corps sain."_
 
 Sport is important to keep on track. My favorite sports are swimming, running and biking.
-
+ -->
