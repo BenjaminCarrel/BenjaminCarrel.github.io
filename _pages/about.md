@@ -18,7 +18,7 @@ Main topics:
 
 Auxiliary topics:
 
-- Statistics
+- Ordinary and partial differential equations
 - Optimization
 - Machine learning
 - Neural networks

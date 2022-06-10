@@ -9,7 +9,7 @@ author_profile: true
 
 - [Low-rank Parareal: a low-rank parallel-in-time integrator](/assets/papers/arxiv_low-rank-parareal.pdf) \\
 Benjamin Carrel, Martin J. Gander, Bart Vandereycken. \\
-Submitted to BIT on March 2022. Available on [arXiv](https://doi.org/10.48550/arXiv.2203.08455)
+Submitted to BIT on March 2022. Available on [arXiv](https://doi.org/10.48550/arXiv.2203.08455).
 
 <!-- - [Master thesis - Parallel Time Integration of Dynamical Low Rank Approximation: Multirank Parareal](/assets/papers/master-thesis.pdf) \\
 Benjamin Carrel, Martin J. Gander, Bart Vandereycken. \\
