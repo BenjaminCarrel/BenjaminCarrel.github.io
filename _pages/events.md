@@ -13,7 +13,8 @@ Conference at TU Berlin (Germany). \\
 
 - [PinT 2022: 11th Conference on Parallel-in-Time Integration](https://www.chairejeanmorlet.com/2642.html) \\
 Workshop at CIRM - Jean-Morlet Chair (Marseille, France). \\
- July 11-15, 2022.
+ July 11-15, 2022. \\
+ Here are my [slides](/assets/slides/slides_PinT_2022.pdf).
 
 
 ## 2021
