@@ -282,8 +282,8 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash
-      author_profile: true
+      layout: single
+      author_profile: false
       read_time: false
       comments: # true
       share: false
