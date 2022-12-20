@@ -106,11 +106,11 @@ author:
   avatar           : "/assets/images/bio-photo.jpeg"
   bio              : "PhD student in Applied Mathematics"
   location         : "Geneva, Switzerland"
-  # email            : benjamin.carrel@unige.ch
+  email            : benjamin.carrel@unige.ch
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:benjamin.carrel@unige.ch"
+      # url: "mailto:benjamin.carrel@unige.ch"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
