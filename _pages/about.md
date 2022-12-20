@@ -1,13 +1,13 @@
 ---
 layout: single
 title: "About"
-permalink: /about/
+permalink: /
 author_profile: true
 ---
 
-> The people who are crazy enough to think they can change the world are the ones who do. (Steve Jobs)
+Hello, my name is **Benjamin Carrel**. I am a PhD student at the University of Geneva. My supervisors are [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/). Feel free to contact me if you have any questions.
 
-## Domain of interest
+## Domain of research
 
 Main topics:
 
@@ -15,16 +15,16 @@ Main topics:
 - Parallel-in-time computations
 - Iterative methods
 - Numerical integration
+- Ordinary and partial differential equations
 
 Auxiliary topics:
 
-- Ordinary and partial differential equations
 - Optimization
 - Machine learning
 - Neural networks
 
-Do not hesitate to get in touch with me. Just send an email!
 
+<!-- 
 ## Education
 
 - Started PhD, University of Geneva, from February 2021, with my supervisors [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/).
@@ -38,7 +38,7 @@ Do not hesitate to get in touch with me. Just send an email!
 
 Coming soon.
 
-<!-- 
+
 My first passion is science. Since my young age the universe and its mysterious laws fascinate me. Over time, I've been seduced by the beauty of mathematics. Today, I like reading about every topic in science.
 
 As a hobby, I like playing with new technologies. Computers, electronic and domotic are my favorites toys.
