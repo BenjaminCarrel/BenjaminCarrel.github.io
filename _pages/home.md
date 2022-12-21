@@ -1,25 +1,15 @@
 ---
 layout: splash
+title: "Home"
 permalink: /
+author_profile: true
 ---
 
-Hello, my name is **Benjamin Carrel**. I am a PhD student at the University of Geneva. My supervisors are [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/). Feel free to contact me if you have any questions.
-
-## Domain of research
-
-Main topics:
-
-- Low-rank approximations
-- Parallel-in-time computations
-- Iterative methods
-- Numerical integration
-- Ordinary and partial differential equations
-
-Auxiliary topics:
-
-- Optimization
-- Machine learning
-- Neural networks
+# Hello, \\
+I'm **Benjamin Carrel**. \\
+I am a PhD student at the University of Geneva. \\
+My supervisors are [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/). \\
+Feel free to contact me by email.
 
 
 <!-- 
