@@ -5,6 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
+## Current topics of interest
+
+- Low-rank approximation of dynamical systems.
+- Parallel-in-time algorithms.
+- Iterative methods.
+- Numerical integration.
+- Ordinary and partial differential equations.
+
 ## Preprints
 
 - [Low-rank Parareal: a low-rank parallel-in-time integrator](/assets/papers/arxiv_low-rank-parareal.pdf) \\

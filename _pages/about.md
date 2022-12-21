@@ -5,6 +5,10 @@ permalink: /about/
 author_profile: true
 ---
 
+To be updated.
+
+
+<!---
 Hello, my name is **Benjamin Carrel**. I am a PhD student at the University of Geneva. My supervisors are [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/). Feel free to contact me if you have any questions.
 
 ## Domain of research
@@ -22,7 +26,7 @@ Auxiliary topics:
 - Optimization
 - Machine learning
 - Neural networks
-
+--->
 
 <!-- 
 ## Education

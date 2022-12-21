@@ -1,11 +1,27 @@
 ---
 layout: single
-title: "Homepage"
+title: "Welcome"
 permalink: /
 author_profile: true
+header: 
+  overlay_image: /assets/images/header.jpeg
+  overlay_filter: 0.2
+  caption: "Mont Blanc. Photo by Benjamin Carrel."
 ---
 
-This homepage is work in progress. The rest of the website is functional.
+As written everywhere here, my name is **Benjamin Carrel**.
+
+I am currently a PhD student at the University of Geneva. My supervisors are [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/).
+
+The website is organized in four main sections:
+- [About me](/about/): a short presentation of my background and my interests.
+- [Research](/research/): a list a my preprints and publications.
+- [Events](/events/): a list of my talks and conferences I attended.
+- [Teaching](/teaching/): a list of the courses I taught.
+
+Feel free to contact me by [email](mailto: benjamin.carrel@unige.ch).
+
+
 
 
 <!-- 

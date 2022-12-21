@@ -7,8 +7,8 @@ author_profile: true
 
 ## University of Geneva - 2022
 
+- Algèbre I (exercices) - Fall 2022
 - Mathématiques Générales B (TP & TD) - Spring 2022
-
 
 ## University of Geneva - 2021
 
