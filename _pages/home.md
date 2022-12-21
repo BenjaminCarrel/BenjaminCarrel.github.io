@@ -1,9 +1,14 @@
 ---
-layout: splash
-title: "Home"
+layout: single
+title: "Homepage"
 permalink: /
 author_profile: true
 ---
+
+This homepage is work in progress. The rest of the website is functional.
+
+
+<!-- 
 
 # Hello, \\
 I'm **Benjamin Carrel**. \\
@@ -12,7 +17,6 @@ My supervisors are [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [
 Feel free to contact me by email.
 
 
-<!-- 
 ## Education
 
 - Started PhD, University of Geneva, from February 2021, with my supervisors [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/).
