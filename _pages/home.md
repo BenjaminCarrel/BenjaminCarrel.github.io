@@ -15,7 +15,7 @@ I am currently a PhD student at the University of Geneva. My supervisors are [Pr
 
 The website is organized in four main sections:
 - [About me](/about/): a short presentation of my background and my interests.
-- [Research](/research/): a list a my preprints and publications.
+- [Research](/research/): a list of my preprints and publications.
 - [Events](/events/): a list of my talks and conferences I attended.
 - [Teaching](/teaching/): a list of the courses I taught.
 
