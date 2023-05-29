@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Current topics of interest
+## Topics of interest
 
 - Low-rank approximation of dynamical systems.
 - Parallel-in-time algorithms.
@@ -13,9 +13,9 @@ author_profile: true
 - Numerical integration.
 - Ordinary and partial differential equations.
 
-## Preprints
+## Publications and preprints
 
-- [Low-rank Parareal: a low-rank parallel-in-time integrator](/assets/papers/BIT_low_rank_parareal.pdf) \\
+- [(2023) Low-rank Parareal: a low-rank parallel-in-time integrator](/assets/papers/BIT_low_rank_parareal.pdf) \\
 Benjamin Carrel, Martin J. Gander, Bart Vandereycken. \\
 Published in [BIT Numerical Mathematics](https://link.springer.com/article/10.1007/s10543-023-00953-3).\\
 The code is on [GitHub](https://github.com/BenjaminCarrel/Low-rank-Parareal).
