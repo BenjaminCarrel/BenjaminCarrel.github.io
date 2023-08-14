@@ -9,20 +9,28 @@ header:
   caption: "Mont Blanc. Photo by Benjamin Carrel."
 ---
 
-As written everywhere here, my name is **Benjamin Carrel**.
+As written everywhere here, my name is **Benjamin Carrel** and I am 25 years old.
 
-I am currently a PhD student at the University of Geneva. My supervisors are [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/).
+Currently, I am doing a PhD in Mathematics under the supervision of [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/).
 
-The website is organized in four main sections:
-- [About me](/about/): a short presentation of my background and my interests.
-- [Research](/research/): a list of my preprints and publications.
-- [Events](/events/): a list of my talks and conferences I attended.
-- [Teaching](/teaching/): a list of the courses I taught.
+## Hot preprints & publications
 
-Feel free to contact me by [email](mailto: benjamin.carrel@unige.ch).
+- [Low-rank Parareal: a low-rank parallel-in-time integrator](https://link.springer.com/article/10.1007/s10543-023-00953-3)
 
+## Research interests
 
+- Low-rank approximations
+- Parallel-in-time computations
+- Iterative methods
+- Numerical integration
+- Ordinary and partial differential equations
 
+## Education
+
+- (Current) PhD, University of Geneva, since February 2021.
+- Master in Mathematics, University of Geneva, September 2019 to December 2020.
+- [Master of excellence fellowship](https://www.unige.ch/sciences/fr/enseignements/formations/masters/excellencemasterfellowships/winners2019/). 
+- Bachelor in Mathematics, University of Geneva, September 2016 to June 2019.
 
 <!-- 
 
