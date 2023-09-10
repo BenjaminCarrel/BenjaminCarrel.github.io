@@ -9,14 +9,35 @@ header:
   caption: "Mont Blanc. Photo by Benjamin Carrel."
 ---
 
-As written everywhere here, my name is **Benjamin Carrel** and I am 25 years old.
+**Welcome to My World of Mathematical Marvels!**
 
-Currently, I am doing a PhD in Mathematics under the supervision of [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/).
+Hey there, I'm Benjamin Carrel, your friendly neighborhood math wizard. 🧙‍♂️ I live, breathe, and even dream in equations! Here's the scoop:
+
+🌟 **Passion:** I'm all about science, especially the mind-boggling world of applied math.
+
+🚀 **High-Tech Enthusiast:** If it's got wires or code, count me in. Tech is my jam!
+
+🌍 **Optimism:** I firmly believe humanity can conquer any challenge.
+
+🌿 **Nature Lover:** I find peace cycling and rowing – nature's gym.
+
+🤓 **Knowledge Buff:** I thrive on understanding and sharing wisdom.
+
+📚 **PhD Pursuit:** Currently, I'm conquering a PhD in applied math at the University of Geneva under the supervision of [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/).
+
+💡 **Top Interests:** Linear algebra, numerical analysis, low-rank approximations, and more.
+
+🤖 **Side Hustles:** Machine learning and all things science.
+
+Ready to dive into the mathematical wonderland with me? Let's make numbers dance and science fun! 🚀
+
 
 ## Hot preprints & publications
 
 - [Low-rank Parareal: a low-rank parallel-in-time integrator](https://link.springer.com/article/10.1007/s10543-023-00953-3)
 
+
+<!-- 
 ## Research interests
 
 - Low-rank approximations
@@ -30,7 +51,7 @@ Currently, I am doing a PhD in Mathematics under the supervision of [Prof. Marti
 - (Current) PhD, University of Geneva, since February 2021.
 - Master in Mathematics, University of Geneva, September 2019 to December 2020.
 - [Master of excellence fellowship](https://www.unige.ch/sciences/fr/enseignements/formations/masters/excellencemasterfellowships/winners2019/). 
-- Bachelor in Mathematics, University of Geneva, September 2016 to June 2019.
+- Bachelor in Mathematics, University of Geneva, September 2016 to June 2019. -->
 
 <!-- 
 
