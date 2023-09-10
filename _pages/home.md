@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome"
+title: "Welcome to My World of Mathematical Marvels!"
 permalink: /
 author_profile: true
 header: 
@@ -8,8 +8,6 @@ header:
   overlay_filter: 0.2
   caption: "Mont Blanc. Photo by Benjamin Carrel."
 ---
-
-**Welcome to My World of Mathematical Marvels!**
 
 Hey there, I'm Benjamin Carrel, your friendly neighborhood math wizard. 🧙‍♂️ I live, breathe, and even dream in equations! Here's the scoop:
 
