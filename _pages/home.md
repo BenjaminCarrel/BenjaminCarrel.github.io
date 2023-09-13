@@ -9,7 +9,7 @@ header:
   caption: "Mont Blanc. Photo by Benjamin Carrel."
 ---
 
-Hey there, I'm Benjamin Carrel, your friendly neighborhood math wizard. 🧙‍♂️ I live, breathe, and even dream in equations! Here's the scoop:
+<!-- Hey there, I'm Benjamin Carrel, your friendly neighborhood math wizard. 🧙‍♂️ I live, breathe, and even dream in equations! Here's the scoop:
 
 🌟 **Passion:** I'm all about science, especially the mind-boggling world of applied math.
 
@@ -27,7 +27,7 @@ Hey there, I'm Benjamin Carrel, your friendly neighborhood math wizard. 🧙‍�
 
 🤖 **Side Hustles:** Machine learning and all things science.
 
-Ready to dive into the mathematical wonderland with me? Let's make numbers dance and science fun! 🚀
+Ready to dive into the mathematical wonderland with me? Let's make numbers dance and science fun! 🚀 -->
 
 
 ## Hot preprints & publications
