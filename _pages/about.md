@@ -5,6 +5,8 @@ permalink: /about/
 author_profile: true
 ---
 
+The following piece of text has been partially written with ChatGPT. Don't take it too seriously.
+
 **Unraveling the Mathematical Mysteries of the Universe, One Algorithm at a Time**
 
 Greetings! I'm Benjamin Carrel, an unapologetic science enthusiast and a staunch believer in the remarkable potential of humanity. My journey is a testament to the idea that when you mix a passion for science, a love for high-tech wizardry, an unwavering optimism, and a hearty dose of nature and sports, you end up with a life that's equal parts exhilarating and enlightening.
