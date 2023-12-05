@@ -19,6 +19,8 @@ I am a science enthusiast, so feel free to contact me if you want to discuss abo
 
 ## Hot preprints & publications
 
+- [Projected exponential methods for stiff dynamical low-rank approximation problems](https://arxiv.org/abs/2312.00172)
+
 - [Low-rank Parareal: a low-rank parallel-in-time integrator](https://link.springer.com/article/10.1007/s10543-023-00953-3)
 
 

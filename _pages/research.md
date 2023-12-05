@@ -15,6 +15,11 @@ author_profile: true
 
 ## Publications and preprints
 
+- [(2023) Projected exponential methods for stiff dynamical low-rank approximation problems](https://arxiv.org/abs/2312.00172) \\
+Benjamin Carrel and Bart Vandereycken. \\
+Submitted to a journal, under review. \\
+The code is on [GitHub](https://github.com/BenjaminCarrel/projected-exponential-methods/tree/arXiv).
+
 - [(2023) Low-rank Parareal: a low-rank parallel-in-time integrator](/assets/papers/BIT_low_rank_parareal.pdf) \\
 Benjamin Carrel, Martin J. Gander, Bart Vandereycken. \\
 Published in [BIT Numerical Mathematics](https://link.springer.com/article/10.1007/s10543-023-00953-3).\\
