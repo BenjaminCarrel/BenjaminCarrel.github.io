@@ -16,6 +16,8 @@ author_profile: true
 
 ## Publications and preprints
 
+Here is a link to my [Google Scholar profile](https://scholar.google.com/citations?user=5FcrKYkAAAAJ&hl=en).
+
 - [(2023) Projected exponential methods for stiff dynamical low-rank approximation problems](https://arxiv.org/abs/2312.00172) \\
 Benjamin Carrel and Bart Vandereycken. \\
 Available on [arXiv](https://arxiv.org/abs/2312.00172). Submitted to a journal, now under review. \\
