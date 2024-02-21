@@ -9,13 +9,17 @@ header:
   caption: "Mont Blanc. Photo by Benjamin Carrel."
 ---
 
+## Introduction
+
 My name is **Benjamin Carrel** and I am currently a PhD student at the University of Geneva.
 My supervisors are [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/).
-My research interests are low-rank approximations, parallel-in-time computations, iterative methods, numerical integration, and differential equations in general.
-I follow with close attention the recent advances in machine learning and artificial intelligence.
-On my free time, I like to play with new technologies, especially computers, electronics, and domotics.
-When I am not in front of a screen, I enjoy the nature by cycling, rowing, or hiking.
-I am a science enthusiast, so feel free to contact me if you want to discuss about it.
+My PhD is expected to finish around January 2025.
+So far, my research was focused around dynamical low-rank approximation and parallel-in-time computations for scientific computing.
+Nonetheless, I keep an eye on the recent advances in machine learning (especially neural networks) since low-rank approximations might be very relevant in this field.
+On my free time, I enjoy playing with new technologies and being in the nature by cycling or hiking.
+I am a science enthusiast, so feel free to contact me if you want to discuss about science or technology.
+
+Find out more about my [research](/research), my [CV](/cv) and my [teaching](/teaching).
 
 ## Hot preprints & publications
 

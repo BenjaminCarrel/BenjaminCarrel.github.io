@@ -7,17 +7,18 @@ author_profile: true
 
 ## Topics of interest
 
+- Ordinary and partial differential equations.
 - Low-rank approximation of dynamical systems.
 - Parallel-in-time algorithms.
 - Iterative methods.
-- Numerical integration.
-- Ordinary and partial differential equations.
+- Randomized numerical linear algebra.
+- Machine learning and neural networks.
 
 ## Publications and preprints
 
 - [(2023) Projected exponential methods for stiff dynamical low-rank approximation problems](https://arxiv.org/abs/2312.00172) \\
 Benjamin Carrel and Bart Vandereycken. \\
-Submitted to a journal, under review. \\
+Available on [arXiv](https://arxiv.org/abs/2312.00172). Submitted to a journal, now under review. \\
 The code is on [GitHub](https://github.com/BenjaminCarrel/projected-exponential-methods/tree/arXiv).
 
 - [(2023) Low-rank Parareal: a low-rank parallel-in-time integrator](/assets/papers/BIT_low_rank_parareal.pdf) \\
