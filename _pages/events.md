@@ -14,24 +14,24 @@ Symposium on "Dynamical Low Rank Approximation: from theory to applications". \\
 Co-organized with Thomas Trigo Trindade (EPFL).
 
 - [SIAM LA 2024](https://www.siam.org/conferences/cm/conference/la24) \\
-Conference at Sorbonne Université, Paris (France). \\ 
+Conference at Sorbonne Université, Paris (France). \\
 May 13-17, 2024. \\
 Symposium talk, invited by Prof. Steffen W. R. Werner (Virginia Tech).
 
 - [GAMM 2024](https://jahrestagung.gamm.org/annual-meeting-2024/94th-annual-meeting/) \\
-Conference in the "Otto"-city, Magdeburg (Germany). \\ 
+Conference in the "Otto"-city, Magdeburg (Germany). \\
 March 18-22, 2024. \\
 Symposium talk, invited by Dominik Sulz (University of Tübingen).
 
 ## 2023
 
 - [The f(A)bulous workshop on matrix functions and exponential integrators](https://indico3.mpi-magdeburg.mpg.de/event/30/) \\
-Workshop at MPI Magdeburg (Germany). \\ 
+Workshop at MPI Magdeburg (Germany). \\
 September 25-27, 2023. \\
 Contributed talk.
 
 - [METT X - 10th Workshop on Matrix Equations and Tensor Techniques](https://www.igpm.rwth-aachen.de/workshop/mett2023) \\
-Workshop at RWTH Aachen University (Germany). \\ 
+Workshop at RWTH Aachen University (Germany). \\
 September 13-15, 2023. \\
 Contributed talk.
 
@@ -46,24 +46,24 @@ Contributed talk, invited by the organizers.
 
 - [SIAM CSE 2023](https://www.siam.org/conferences/cm/conference/cse23) \\
 Conference in Amsterdam (Netherlands). \\
- February 26 - March 3, 2023. \\
+February 26 - March 3, 2023. \\
 Symposium talk, invited by Prof. Lukas Einkemmer (University of Innsbruck).
 
 ## 2022
 
 - [Model Reduction and Surrogate Modeling (MORE)](https://more.sciencesconf.org) \\
 Conference at TU Berlin (Germany). \\
- September 19-23, 2022. \\
+September 19-23, 2022. \\
 Poster presentation.
 
 - [Swiss Numerics Day 2022](https://www.math.uzh.ch/index.php?id=konferenzdetails0&key1=688) \\
 Workshop at UZH (Zurich, Switzerland). \\
- September 12, 2022. \\
+September 12, 2022. \\
 Poster presentation.
 
 - [PinT 2022: 11th Conference on Parallel-in-Time Integration](https://www.chairejeanmorlet.com/2642.html) \\
 Workshop at CIRM - Jean-Morlet Chair (Marseille, France). \\
- July 11-15, 2022. \\
+July 11-15, 2022. \\
 Contributed talk, invited by Prof. Martin J. Gander (University of Geneva).
 
 ## 2021
