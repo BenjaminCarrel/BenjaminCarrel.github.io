@@ -114,9 +114,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/benjamin-carrel-406b4315b/"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-googlescholar"
-      url: "https://scholar.google.com/citations?user=5FcrKYkAAAAJ&hl=en"
 
 # Site Footer
 footer:
@@ -127,9 +124,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/benjamin-carrel-406b4315b/"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-googlescholar"
-      url: "https://scholar.google.com/citations?user=5FcrKYkAAAAJ&hl=en"
 
 
 # Reading Files
