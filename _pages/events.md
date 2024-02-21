@@ -39,7 +39,7 @@ Contributed talk.
 Workshop at EPFL, Bernoulli Center (Switzerland). May 22-24, 2023. \\
 Invited by Gianluca Ceruti (EPFL).
 
-- [Iterative methods for partial differential equations](https://impde2023.sciencesconf.org)
+- [Iterative methods for partial differential equations](https://impde2023.sciencesconf.org) \\
 Research school at Jacques-Louis Lions Laboratory, Sorbonne University, Paris (France). \\
 May 15-16, 2023. \\
 Contributed talk, invited by the organizers.
