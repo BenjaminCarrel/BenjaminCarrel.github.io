@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: single
 title: "Teaching"
 permalink: /teaching/
@@ -24,4 +24,4 @@ author_profile: true
 - Mathématiques Générales B (TP) - Spring 2021
 - Analyse numérique (exercices) - Spring 2021
 
-
+ -->

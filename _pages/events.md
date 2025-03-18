@@ -5,7 +5,7 @@ permalink: /events/
 author_profile: true
 ---
 
-## Upcoming events
+## 2024
 
 - [SciCADE 2024](https://www.scicade2024.org) \\
 Conference at the National University of Singapore. \\

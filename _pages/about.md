@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: single
 title: "About"
 permalink: /about/
@@ -31,4 +31,4 @@ author_profile: true
 ## Memberships
 
 - [SIAM student member](https://www.siam.org/membership/join-siam/individual-members/student)
-- [GAMM student member](https://www.gamm.org/en/association/membership/)
+- [GAMM student member](https://www.gamm.org/en/association/membership/) -->

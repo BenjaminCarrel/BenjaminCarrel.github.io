@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: single
 title: "Research"
 permalink: /research/
@@ -34,4 +34,4 @@ Master thesis.
 
 - [Travail de lecture - Artificial Neural Networks and the Singular Values Decomposition : from Theory to Machine Learning](/assets/papers/travail-de-lecture.pdf) \\
 Benjamin Carrel and Martin J. Gander. \\
-Report of master's "travail de lecture". -->
+Report of master's "travail de lecture". --> -->
