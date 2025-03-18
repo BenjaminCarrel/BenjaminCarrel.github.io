@@ -6,7 +6,7 @@ author_profile: true
 header: 
   overlay_image: /assets/images/header.jpeg
   overlay_filter: 0.2
-  caption: "Mont Blanc. Photo by Benjamin Carrel."
+  caption: "Mont Blanc from La Dôle."
 ---
 
 ## Introduction
