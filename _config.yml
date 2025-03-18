@@ -104,9 +104,9 @@ analytics:
 author:
   name             : "Benjamin Carrel"
   avatar           : "/assets/images/bio-photo.jpeg"
-  bio              : "PhD student in Mathematics"
-  location         : "Geneva, Switzerland"
-  email            : benjamin.carrel@unige.ch
+  bio              : "Post-Doc at Paul Scherrer Institut"
+  location         : "Villigen, Switzerland"
+  email            : benjamin.carrel@outlook.com
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
