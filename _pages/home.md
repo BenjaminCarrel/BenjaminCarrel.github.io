@@ -11,18 +11,18 @@ header:
 
 ## Introduction
 
-Welcome to my website, my name is **Benjamin Carrel**. \\
-I am currently doing a PhD student at the University of Geneva, under supervision of [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/). \\
-My PhD is expected to finish on January 2025. Learn more about [me and my CV](/about). \\
-So far, my research was focused around dynamical low-rank approximation and parallel-in-time algorithms for scientific computing. Learn more about my [academic research](/research) and my [contribution in conferences](/events). \\
-I am also a teaching assistant at the University of Geneva. Learn more about my [teaching experience](/teaching). \\
-As a side project, I am interested in the application of low-rank techniques in machine learning and neural networks.
-<!-- Learn more about my [side projects](/side_projects). \\ -->
-On my (little) free time, I enjoy playing with new technologies and being in the nature by cycling or hiking.
+Currently Post-Doc at the Paul Scherrer Institut (PSI) in Villigen, Switzerland. The Paul Scherrer Insitut is the largest laboratory in the ETH domain and a leader in the development of science and new technologies. \\
+Before, I did my PhD at the University of Geneva (UNIGE) under the supervision of [Prof. Martin J. Gander](https://www.unige.ch/~gander/) and [Prof. Bart Vandereycken](https://www.unige.ch/math/vandereycken/), and graduted in January 2025.
 
-## Hot preprints & publications
+## Preprints
+
+- [Randomized Methods for Dynamical Low-Rank Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017212)
 
 - [Projected exponential methods for stiff dynamical low-rank approximation problems](https://arxiv.org/abs/2312.00172)
+
+## Publications
+
+- [(PhD Thesis) Robust and Efficient Low-Rank Approximation of Dynamical Systems: Parallel-in-Time, Exponential, and Randomized Techniques](https://archive-ouverte.unige.ch/unige:183581)
 
 - [Low-rank Parareal: a low-rank parallel-in-time integrator](https://link.springer.com/article/10.1007/s10543-023-00953-3)
 
