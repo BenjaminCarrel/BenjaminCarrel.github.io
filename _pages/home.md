@@ -18,20 +18,17 @@ Here is a [link to my Google Scholar profile](https://scholar.google.com/citatio
 
 ## Preprints
 
-- [Randomized Methods for Dynamical Low-Rank Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017212)
-
+- [Randomized Methods for Dynamical Low-Rank Approximation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017212) \\
 Code available on [GitHub](https://github.com/BenjaminCarrel/randomized-dynamical-low-rank)
 
-- [Projected exponential methods for stiff dynamical low-rank approximation problems](https://arxiv.org/abs/2312.00172)
-
+- [Projected exponential methods for stiff dynamical low-rank approximation problems](https://arxiv.org/abs/2312.00172) \\
 Code available on [GitHub](https://github.com/BenjaminCarrel/projected-exponential-methods)
 
 ## Publications
 
 - [(PhD Thesis) Robust and Efficient Low-Rank Approximation of Dynamical Systems: Parallel-in-Time, Exponential, and Randomized Techniques](https://archive-ouverte.unige.ch/unige:183581) 
 
-- [Low-rank Parareal: a low-rank parallel-in-time integrator](https://link.springer.com/article/10.1007/s10543-023-00953-3)
-
+- [Low-rank Parareal: a low-rank parallel-in-time integrator](https://link.springer.com/article/10.1007/s10543-023-00953-3) \\
 Code available on [GitHub](https://github.com/BenjaminCarrel/Low-rank-Parareal).
 
 
