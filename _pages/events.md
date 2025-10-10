@@ -5,6 +5,13 @@ permalink: /events/
 author_profile: true
 ---
 
+## 2025
+
+- [ILAS 2025](https://ilas2025.tw) \\
+The 26th Conference of the International Linear Algebra Society. \\
+June 23 ~ 27, 2025. \\
+Symposium talk, invited by Igor Simunec (EPFL) and Michele Rinelli (KU Leuven).
+
 ## 2024
 
 - [SciCADE 2024](https://www.scicade2024.org) \\
