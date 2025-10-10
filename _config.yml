@@ -112,7 +112,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BenjaminCarrel"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=5FcrKYkAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
