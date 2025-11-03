@@ -9,7 +9,10 @@ header:
   caption: "Mont Blanc from La Dôle."
 ---
 
-## Latest paper
+## Latest papers
+
+- [Interpolatory Dynamical Low-Rank Approximation: Theoretical Foundations and Algorithms](https://arxiv.org/abs/2510.19518) \\
+Code available on [GitHub](https://github.com/BenjaminCarrel/DLRA-DEIM)
 
 - [Randomized Methods for Dynamical Low-Rank Approximation](https://www.sciencedirect.com/science/article/pii/S002199912500703X) \\
 Code available on [GitHub](https://github.com/BenjaminCarrel/randomized-dynamical-low-rank).
@@ -23,6 +26,9 @@ Code available on [GitHub](https://github.com/BenjaminCarrel/randomized-dynamica
 Code available on [GitHub](https://github.com/BenjaminCarrel/Low-rank-Parareal).
 
 ## List of preprints (still under review)
+
+- [Interpolatory Dynamical Low-Rank Approximation: Theoretical Foundations and Algorithms](https://arxiv.org/abs/2510.19518) \\
+Code available on [GitHub](https://github.com/BenjaminCarrel/DLRA-DEIM)
 
 - [Projected exponential methods for stiff dynamical low-rank approximation problems](https://arxiv.org/abs/2312.00172) \\
 Code available on [GitHub](https://github.com/BenjaminCarrel/projected-exponential-methods).
