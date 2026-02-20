@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "Benjamin Carrel"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "PostDoc at Paul Scherrer Institut (PSI)"
-  location         : "Villigen, Switzerland"
+  bio              : "Math. & AI Engineer"
+  location         : "Switzerland"
   email            : benjamin.carrel@outlook.com
   links:
     - label: "GitHub"
